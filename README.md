@@ -1,4 +1,5 @@
 # Sistema-de-votacao-EXPOTEC
+#### Sistema de votação por meio de pares, para auxiliar na escolha da melhor sala da EXPOTEC 2019 em Caicó-RN.
 #### Fieto em 2019 durante o 3º ano do técnico em informática integrado. Atividade extra da disciplina de Programação com acesso a banco de dados.
 Sistema de votação por meio de pares, para auxiliar na escolha da melhor sala da EXPOTEC 2019 em Caicó-RN.
 
