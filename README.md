@@ -1,6 +1,6 @@
 # Sistema-de-votacao-EXPOTEC
 #### Sistema de votação por meio de pares, para auxiliar na escolha da melhor sala da EXPOTEC 2019 em Caicó-RN.
-#### Fieto em 2019 durante o 3º ano do técnico em informática integrado. Atividade extra da disciplina de Programação com acesso a banco de dados.
+#### Feito em 2019 durante o 3º ano do curso técnico integrado em informática. Atividade extra da disciplina de Programação com acesso a banco de dados.
 Sistema de votação por meio de pares, para auxiliar na escolha da melhor sala da EXPOTEC 2019 em Caicó-RN.
 
 Para o funcionamento do sistema é necessário executar o comando SQL presente no arquivo "db_expotec.sql"
